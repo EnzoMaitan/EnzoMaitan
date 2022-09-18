@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:maitanfavaroenzo@gmail.com" /></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=Lhttps://www.linkedin.com/in/enzo-m-869729104/" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-m-869729104/" /></a>
 
 
 <div align="left" style="display: inline_block">
