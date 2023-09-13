@@ -1,5 +1,4 @@
 [![Header](https://cdn.discordapp.com/attachments/412045707109859329/1021206958369411214/hellothere.png?raw=true "Header")](https://github.com/EnzoMaitan/)
-Currently working on [Denarii](https://github.com/EnzoMaitan/denarii), a budget modeler.
 
  <a href="mailto:maitanfavaroenzo@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:maitanfavaroenzo@gmail.com" /></a>
