@@ -11,6 +11,8 @@
   <a href="https://github.com/EnzoMaitan">
   <img height="142em" src="https://github-readme-stats.vercel.app/api?username=EnzoMaitan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoMaitan&layout=compact&langs_count=7&theme=radical"/>
+     <img height="142em" src="https:/test-neon-gamma-59.vercel.appp/api/top-langs/?username=EnzoMaitan&layout=compact&langs_count=7&theme=radical"/>
+
 </div>
 
 
